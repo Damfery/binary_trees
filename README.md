@@ -2502,6 +2502,3 @@ What are the average time complexities of those operations on a Binary Heap (one
 *    Searching for a node in a binary heap of size n
 ---
 ## Authors
-
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-* **Cristian Pineda** - [Cristiand187](https://github.com/Cristiand187)
